@@ -9,3 +9,16 @@
 - **Email:** olena.lightness@gmail.com
 - [GitHub](https://github.com/olenaxx)
 - [LinkedIn](https://www.linkedin.com/in/olena-stadnyk/)
+
+## About me
+
+I am beginner Front End developer
+and I am very interested in growing in this direction
+
+## Skills
+
+- HTML
+- CSS/SASS
+- JavaScript
+- Git
+- GitHub
